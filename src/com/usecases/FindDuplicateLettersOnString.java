@@ -1,4 +1,4 @@
-package com.ds;
+package com.usecases;
 
 import java.util.HashMap;
 import java.util.Map;

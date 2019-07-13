@@ -1,4 +1,4 @@
-package com.ds;
+package com.usecases;
 
 public class ArraySort {
     public int[]  reversString(int[] array){

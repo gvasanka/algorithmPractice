@@ -1,4 +1,4 @@
-package com.ds;
+package com.usecases;
 
 public class FindSum {
     public String  findValue(int[] aa, int sum){

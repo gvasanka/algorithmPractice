@@ -1,4 +1,4 @@
-package com.alog;
+package com.asanka.alog.sort;
 
 public class InsertionSort {
 
