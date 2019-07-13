@@ -9,7 +9,7 @@ public class InsertionSort {
 
 
 
-    void printArray(int arr[])
+    void printArray(int[] arr)
     {
         int n = arr.length;
         for (int i=0; i<n; ++i)
@@ -19,7 +19,7 @@ public class InsertionSort {
 
     public static void main(String[]args){
         System.out.println("Hel444lpw");
-        int arr[] = {64, 34, 25, 12, 22, 11, 90};
+        int[] arr = {64, 34, 25, 12, 22, 11, 90};
       new InsertionSort().insertionSort(arr);
         new InsertionSort().printArray(arr);
 

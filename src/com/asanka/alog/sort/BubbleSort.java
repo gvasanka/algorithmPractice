@@ -42,7 +42,7 @@ public class BubbleSort {
     }
 
 
-    void printArray(int arr[])
+    void printArray(int[] arr)
     {
         int n = arr.length;
         for (int i=0; i<n; ++i)
@@ -52,11 +52,11 @@ public class BubbleSort {
 
     public static void main(String[]args){
         System.out.println("Hel444lpw");
-        int arr[] = {64, 34, 25, 12, 22, 11, 90};
+        int[] arr = {64, 34, 25, 12, 22, 11, 90};
         arr=new BubbleSort().bubbleSort(arr);
         new BubbleSort().printArray(arr);
 
-        int arr1[] = {22, 22, 22, 22, 22, 22, 22};
+        int[] arr1 = {22, 22, 22, 22, 22, 22, 22};
         arr=new BubbleSort().optimizedBubbleSort(arr1);
         new BubbleSort().printArray(arr);
     }

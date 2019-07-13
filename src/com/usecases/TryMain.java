@@ -9,7 +9,7 @@ public class TryMain {
         int test=sc.nextInt();
         while(test>0){
             String s=sc.next();
-            String sd[]=s.split("\\.");
+            String[] sd = s.split("\\.");
 
             for(int i=sd.length-1;i>=0;i--){
                 if(i==0){
