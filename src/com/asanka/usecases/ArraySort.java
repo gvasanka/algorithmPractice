@@ -1,4 +1,4 @@
-package com.usecases;
+package com.asanka.usecases;
 
 public class ArraySort {
     public int[]  reversString(int[] array){

@@ -1,4 +1,4 @@
-package com.usecases;
+package com.asanka.usecases;
 
 import java.util.*;
 

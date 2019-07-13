@@ -1,4 +1,4 @@
-package com.com.asanka.hackernoon;
+package com.asanka.hackernoon;
 
 public class FindMissingNumber {
 
